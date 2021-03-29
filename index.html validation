@@ -35,6 +35,6 @@
         <input type="submit">
     </form>
     <script src="js/script.js"></script>
-    <script src="js/boject.js"></script>
+    
 </body>
 </html>
